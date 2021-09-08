@@ -1,8 +1,3 @@
-## Bienvenido a mi pequeña pagina!!
+## Nose usar las paginas de github ni me interasa brou!!
 
-
-Test
-```markdown
-Keloke
-```
 
